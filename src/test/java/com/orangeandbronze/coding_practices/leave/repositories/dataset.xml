@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<employees employee_id="1" vl_credits="11" sl_credits="11"
+		approver_employee_id="1" />
+	<employees employee_id="2" vl_credits="12" sl_credits="12"
+		approver_employee_id="1" />
+	<employees employee_id="3" vl_credits="13" sl_credits="13"
+		approver_employee_id="2" />
+	<leave_applications leave_application_id="5d46f55c-d8dc-475b-913a-2c480281ccdc"
+		filer_employee_id="1" approver_employee_id="1" leave_type="VL"
+		start_date="2015-09-01" end_date="2015-09-04" status="PENDING" />
+	<leave_applications leave_application_id="779a9513-18ad-4165-97dd-604229cb6b1f"
+		filer_employee_id="1" approver_employee_id="1" leave_type="SL"
+		start_date="2015-09-01" end_date="2015-09-04" status="PENDING" />
+	<leave_applications leave_application_id="87e8fe72-1f15-4e77-a582-f54937fc6fa5"
+		filer_employee_id="3" approver_employee_id="2" leave_type="VL"
+		start_date="2015-09-01" end_date="2015-09-04" status="PENDING" />
+	<leave_applications leave_application_id="c992ab8f-88d3-440a-8a3c-accc7c9f9590"
+		filer_employee_id="3" approver_employee_id="2" leave_type="SL"
+		start_date="2015-09-01" end_date="2015-09-04" status="PENDING" />
+	<leave_applications leave_application_id="aebb940b-3f66-455f-b65d-e4c0718d67b6"
+		filer_employee_id="2" approver_employee_id="1" leave_type="SL"
+		start_date="2015-09-01" end_date="2015-09-04" status="PENDING" />
+	<leave_applications leave_application_id="051c35b2-3257-4e52-94d3-c47247f4c7df"
+		filer_employee_id="3" approver_employee_id="2" leave_type="VL"
+		start_date="2015-09-01" end_date="2015-09-04" status="APPROVED" />
+	<leave_applications leave_application_id="97487b1a-6890-4505-b294-fc0ade62f4f3"
+		filer_employee_id="2" approver_employee_id="1" leave_type="VL"
+		start_date="2015-09-01" end_date="2015-09-04" status="DISAPPROVED" />
+	<leave_applications leave_application_id="02e2f9e9-b2f4-4686-a6ba-03a51cbf9fe9"
+		filer_employee_id="2" approver_employee_id="1" leave_type="VL"
+		start_date="2015-09-01" end_date="2015-09-04" status="CANCELED" />
+</dataset>
